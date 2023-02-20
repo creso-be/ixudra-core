@@ -37,7 +37,7 @@
             "type": "vcs",
             "url": "https://github.com/creso-be/laracasts-presenter
         }
-    ];
+    ],
     "extra": {
         "laravel": {
             "providers": [
