@@ -35,7 +35,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/creso-be/laracasts-presenter
+            "url": "https://github.com/creso-be/laracasts-presenter"
         }
     ],
     "extra": {
